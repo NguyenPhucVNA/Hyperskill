@@ -1,2 +1,2 @@
 # Hyperskill
-Project i did for learning
+Just write it projects from hyperskill.org learning path
